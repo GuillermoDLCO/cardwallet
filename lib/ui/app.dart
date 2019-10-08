@@ -1,3 +1,4 @@
+import 'package:cardwallet/ui/card_type.dart';
 import 'package:cardwallet/ui/widgets/card_list.dart';
 import 'package:flutter/material.dart';
 
@@ -30,7 +31,13 @@ class App extends StatelessWidget {
               Icons.add,
               color: Colors.black,
             ),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => CardType(),
+                  ));
+            },
           )
         ],
       ),
@@ -38,4 +45,3 @@ class App extends StatelessWidget {
     );
   }
 }
-
