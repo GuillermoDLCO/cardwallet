@@ -1,0 +1,40 @@
+{
+    "cardResults": [
+        {
+            "cardHolderName": "GUILLERMO DE LA CRUZ",
+            "cardNumber": "5421564823452647",
+            "cardMonth": "11",
+            "cardYear": "2025",
+            "cardCvv": "127",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "ROMAIN CRUZ",
+            "cardNumber": "5421564823452648",
+            "cardMonth": "11",
+            "cardYear": "2025",
+            "cardCvv": "178",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "MELLI LOPEZ",
+            "cardNumber": "5421564823452688",
+            "cardMonth": "11",
+            "cardYear": "2025",
+            "cardCvv": "167",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "JUAN DROGO",
+            "cardNumber": "5421564823452467",
+            "cardMonth": "11",
+            "cardYear": "2025",
+            "cardCvv": "157",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        }
+    ]
+}
